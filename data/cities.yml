@@ -1,0 +1,10 @@
+- name: 'Paris, France'
+  category: "Sebastien's home"
+  detail: 'Charming room in Montmartre'
+- name: 'London, Uk'
+  category: "Boris' home"
+  detail: 'Small flat in Tokyo'
+- name: 'Paris France'
+  category: "Romain's home"
+  detail: 'Nice flat in Picadilly'
+
